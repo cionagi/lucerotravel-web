@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://cionagi@bitbucket.org/cionagi/lucerotravel-web.git",
   "author": "Luis zavala",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "live-reload": "^1.1.0"
+  }
 }
