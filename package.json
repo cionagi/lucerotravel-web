@@ -1,0 +1,9 @@
+{
+  "name": "lucerotravel-web",
+  "version": "2.0.0",
+  "description": "sitio web lucero travel",
+  "main": "index.js",
+  "repository": "https://cionagi@bitbucket.org/cionagi/lucerotravel-web.git",
+  "author": "Luis zavala",
+  "license": "MIT"
+}
